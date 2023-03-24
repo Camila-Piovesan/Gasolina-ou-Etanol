@@ -18,7 +18,7 @@ Projeto realizado durante o curso técnico de Desenvolvimento de Sistemas para a
 <br>
 
 <p align="center">
-  <img alt="capa projeto" src="../assets/capa.jpg" width="100%">
+  <img alt="capa projeto" src="./assets/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
