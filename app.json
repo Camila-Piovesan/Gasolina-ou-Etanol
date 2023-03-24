@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "gasolina",
-    "slug": "gasolina",
+    "slug": "gasolina-ou-etanol",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "73cb411c-291b-4a3f-89eb-953221b6fb9c"
+      }
+    },
+    "owner": "camila.piovesan"
   }
 }
